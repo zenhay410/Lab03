@@ -1,0 +1,2 @@
+/ucrt64/bin/ar.exe qc libfigures_lib.a CMakeFiles/figures_lib.dir/src/Figure.cpp.o CMakeFiles/figures_lib.dir/src/Trapeze.cpp.o CMakeFiles/figures_lib.dir/src/Rhombus.cpp.o CMakeFiles/figures_lib.dir/src/Pentagon.cpp.o
+/ucrt64/bin/ranlib.exe libfigures_lib.a

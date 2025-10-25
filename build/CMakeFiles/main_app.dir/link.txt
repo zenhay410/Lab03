@@ -1,0 +1,1 @@
+/ucrt64/bin/c++.exe  -Werror=maybe-uninitialized -Wl,--enable-auto-import CMakeFiles/main_app.dir/main.cpp.o -o main_app.exe -Wl,--out-implib,libmain_app.dll.a -Wl,--major-image-version,0,--minor-image-version,0  libfigures_lib.a
