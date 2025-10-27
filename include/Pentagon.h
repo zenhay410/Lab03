@@ -1,4 +1,4 @@
-#ifndef PENTAGON_H
+#define PENTAGON_H
 #define PENTAGON_H
 
 #include "Figure.h"
