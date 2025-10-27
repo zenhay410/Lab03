@@ -1,4 +1,4 @@
-#ifndef RHOMBUS_H
+#define RHOMBUS_H
 #define RHOMBUS_H
 
 #include "Figure.h"
