@@ -1,4 +1,4 @@
-#ifndef TRAPEZE_H
+#define TRAPEZE_H
 #define TRAPEZE_H
 
 #include "Figure.h"
